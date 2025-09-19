@@ -1,0 +1,7 @@
+{
+    "card": ".card_number",
+    "date": ".card_date",
+    "code": ".card_csv",
+    "name": ".card_name",
+    "pay_btn": ".style_1_base_button_payment_body > .style_1_base_button_payment"
+}
