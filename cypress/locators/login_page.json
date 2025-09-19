@@ -1,7 +1,0 @@
-{
-  "login": "[name=\"email\"]",
-  "password": "[name=\"password\"]",
-  "login_button": ".MuiButton-root",
-  "forgot_pass_btn": ".style_1_popup_white_link_left",
-  "sign_up_btn": ".style_fix_1"
-}
